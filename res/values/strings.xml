@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WorkList</string>
+    <string name="title_activity_study">StudyActivity</string>
+    <string name="WorkList">WorkList</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_intro">IntroActivity</string>
+
+</resources>

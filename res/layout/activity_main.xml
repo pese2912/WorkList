@@ -1,0 +1,144 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+    
+    <TextView 
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:layout_marginLeft="20dp"
+        android:text="WorkList"
+        android:textColor="#000000"
+        android:layout_marginTop="15dp"/> 
+
+    <Button
+        android:id="@+id/btn_memo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_below="@+id/title"
+        android:background="#326467"
+        android:gravity="center"
+        android:text="할일 추가"
+        android:textSize="20sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"/>
+    
+
+    <Button
+        android:id="@+id/btn_famous"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_memo"
+        android:layout_marginBottom="15dp"
+        android:background="#326467"
+        android:gravity="center"
+        android:text="자아성찰 명언"
+        android:textSize="20sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <Button
+        android:id="@+id/btn_schedule"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_famous"
+        android:layout_marginBottom="15dp"
+        android:background="#326467"
+        android:gravity="center"
+        android:text="시간표 확인"
+        android:textSize="20sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <Button
+        android:id="@+id/btn_dial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_schedule"
+        android:layout_marginBottom="15dp"
+        android:background="#326467"
+        android:gravity="center"
+        android:text="전화걸기"
+        android:textSize="20sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+	<Button
+        android:id="@+id/btn_study"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_dial"
+        android:layout_marginBottom="15dp"
+        android:background="#326467"
+        android:gravity="center"
+        android:text="공부 시간 측정"
+        android:textSize="20sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+	<Button
+        android:id="@+id/btn_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_study"
+        android:layout_marginBottom="15dp"
+        android:background="#326467"
+        android:gravity="center"
+        android:text="미니게임"
+        android:textSize="20sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_naver"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_below="@+id/btn_schedule"
+            android:background="#326467"
+            android:gravity="center"
+            android:text="Naver"
+            android:textSize="13sp"
+            android:padding="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"/>
+
+        <Button
+            android:id="@+id/btn_google"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_below="@+id/btn_schedule"
+            android:background="#326467"
+            android:gravity="center"
+            android:text="Google"
+            android:textSize="13sp"
+             android:padding="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"/>
+
+        <Button
+            android:id="@+id/btn_facebook"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_below="@+id/btn_schedule"
+            android:background="#326467"
+            android:gravity="center"
+            android:text="FaceBook"
+            android:textSize="13sp"
+             android:padding="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+    </LinearLayout>
+
+</RelativeLayout>
