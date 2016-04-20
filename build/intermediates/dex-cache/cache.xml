@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_89da8a79c66abff384edbd5449043631bfe5df6d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tacademy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_51c72a1fd56b1ac6a4b473f294a597f16049cd57\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8f65e6101c990702ad4178f592291354eb0cf2c7">
+        <dex dex="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.clans-fab-1.6.3_4d8746292598055eaa97ba69066840198067d9b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="efbc7800a489e9f94df52eae9f60018c08c2b633">
+        <dex dex="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6316e2f990c87bf191f2280abaf52cbe145f7f5d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_a90c70645555770478513f05e485de1c4a345eee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0401bf2d4f92d44e70cf1088a7f1102e779d3c8a">
+        <dex dex="C:\Users\Tacademy\Documents\WorkList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f427a4ffaacfc85a4ee4fa12b0adff0da96eaa23\classes.dex" />
+    </item>
+
+</items>

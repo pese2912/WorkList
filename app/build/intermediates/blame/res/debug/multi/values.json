@@ -1,0 +1,833 @@
+[
+    {
+        "outputFile": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1747,
+                        "endLine": 45,
+                        "endColumn": 19,
+                        "endOffset": 1961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endLine": 44,
+                    "endColumn": 19,
+                    "endOffset": 1960
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 36,
+                        "endColumn": 19,
+                        "endOffset": 1742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5489,
+                    "endColumn": 57,
+                    "endOffset": 5542
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5547,
+                    "endColumn": 55,
+                    "endOffset": 5598
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5603,
+                    "endColumn": 44,
+                    "endOffset": 5643
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 3579,
+                        "endColumn": 44,
+                        "endOffset": 3619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5648,
+                    "endColumn": 46,
+                    "endOffset": 5690
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 3624,
+                        "endColumn": 46,
+                        "endOffset": 3666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5695,
+                    "endColumn": 47,
+                    "endOffset": 5738
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 3671,
+                        "endColumn": 47,
+                        "endOffset": 3714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5743,
+                    "endColumn": 38,
+                    "endOffset": 5777
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 3719,
+                        "endColumn": 38,
+                        "endOffset": 3753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5782,
+                    "endColumn": 45,
+                    "endOffset": 5823
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 45,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5828,
+                    "endColumn": 52,
+                    "endOffset": 5876
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 52,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5881,
+                    "endColumn": 45,
+                    "endOffset": 5922
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5927,
+                    "endColumn": 62,
+                    "endOffset": 5985
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 62,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5990,
+                    "endColumn": 62,
+                    "endOffset": 6048
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 62,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6053,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 6186
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 49,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 182
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1747,
+                        "endLine": 45,
+                        "endColumn": 19,
+                        "endOffset": 1961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endLine": 44,
+                    "endColumn": 19,
+                    "endOffset": 1960
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 36,
+                        "endColumn": 19,
+                        "endOffset": 1742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5489,
+                    "endColumn": 57,
+                    "endOffset": 5542
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5547,
+                    "endColumn": 55,
+                    "endOffset": 5598
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5603,
+                    "endColumn": 44,
+                    "endOffset": 5643
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 3579,
+                        "endColumn": 44,
+                        "endOffset": 3619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5648,
+                    "endColumn": 46,
+                    "endOffset": 5690
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 3624,
+                        "endColumn": 46,
+                        "endOffset": 3666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5695,
+                    "endColumn": 47,
+                    "endOffset": 5738
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 3671,
+                        "endColumn": 47,
+                        "endOffset": 3714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5743,
+                    "endColumn": 38,
+                    "endOffset": 5777
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 3719,
+                        "endColumn": 38,
+                        "endOffset": 3753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5782,
+                    "endColumn": 45,
+                    "endOffset": 5823
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 45,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5828,
+                    "endColumn": 52,
+                    "endOffset": 5876
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 52,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5881,
+                    "endColumn": 45,
+                    "endOffset": 5922
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5927,
+                    "endColumn": 62,
+                    "endOffset": 5985
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 62,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5990,
+                    "endColumn": 62,
+                    "endOffset": 6048
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 62,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6053,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 6186
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 49,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 182
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1747,
+                        "endLine": 45,
+                        "endColumn": 19,
+                        "endOffset": 1961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endLine": 44,
+                    "endColumn": 19,
+                    "endOffset": 1960
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 36,
+                        "endColumn": 19,
+                        "endOffset": 1742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5489,
+                    "endColumn": 57,
+                    "endOffset": 5542
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5547,
+                    "endColumn": 55,
+                    "endOffset": 5598
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5603,
+                    "endColumn": 44,
+                    "endOffset": 5643
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 3579,
+                        "endColumn": 44,
+                        "endOffset": 3619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5648,
+                    "endColumn": 46,
+                    "endOffset": 5690
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 3624,
+                        "endColumn": 46,
+                        "endOffset": 3666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5695,
+                    "endColumn": 47,
+                    "endOffset": 5738
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 3671,
+                        "endColumn": 47,
+                        "endOffset": 3714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5743,
+                    "endColumn": 38,
+                    "endOffset": 5777
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 3719,
+                        "endColumn": 38,
+                        "endOffset": 3753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5782,
+                    "endColumn": 45,
+                    "endOffset": 5823
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 45,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5828,
+                    "endColumn": 52,
+                    "endOffset": 5876
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 52,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5881,
+                    "endColumn": 45,
+                    "endOffset": 5922
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5927,
+                    "endColumn": 62,
+                    "endOffset": 5985
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 62,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5990,
+                    "endColumn": 62,
+                    "endOffset": 6048
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 62,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6053,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 6186
+                },
+                "from": {
+                    "file": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 49,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 182
+                    }
+                }
+            }
+        ]
+    }
+]

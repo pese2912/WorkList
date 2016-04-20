@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    >
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="강의 이름을 입력하세요"/>
+	<EditText
+        android:id="@+id/edit_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/edit_name"
+        android:hint="강의실을 입력하세요"/>
+    <Spinner
+        android:id="@+id/spinner_day"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_location"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:entries="@array/day"/>
+
+    <TimePicker
+        android:id="@+id/timePicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinner_day"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:theme="@android:style/Theme.Holo"/>
+      
+</RelativeLayout>

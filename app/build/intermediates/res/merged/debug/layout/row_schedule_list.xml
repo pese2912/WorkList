@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/ll_row_community_board"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"  
+    android:orientation="vertical" >
+    
+    <RelativeLayout 
+    	android:id="@+id/ll_row_memo_list"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"  
+    	android:background="@drawable/img_courselist_body"
+    	android:orientation="vertical" >
+    
+    <ImageView
+        android:id="@+id/img_row_board_pic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:background="@drawable/img_courselist_body_left"
+    />
+
+     	<TextView
+     	    android:id="@+id/txt_name"
+     	    android:layout_width="wrap_content"
+     	    android:layout_height="wrap_content"
+     	    android:layout_alignParentLeft="true"
+     	    android:layout_marginTop="15dp"
+     	    android:layout_marginLeft="15dp"
+     	    android:lines="1"
+     	    android:text="강의 이름"
+     	    android:textColor="#165f62"
+     	    android:textSize="14sp"
+     	    android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_loation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_name"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"
+            android:text="장소"               
+            android:textColor="#165f62"
+            android:textSize="11sp" />
+        
+       <TextView
+            android:id="@+id/txt_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_loation"
+            android:layout_marginTop="5dp"            
+            android:layout_marginLeft="20dp"
+            android:text="시간"               
+            android:textColor="#165f62"
+            android:textSize="11sp" />
+        
+        <Button
+            android:id="@+id/btn_mod"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/btn_del"
+            android:text="수정" />
+
+        <Button
+            android:id="@+id/btn_del"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="삭제" />
+
+ </RelativeLayout>    
+ 
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="5dip"
+        android:layout_below="@+id/ll_row_memo_list"
+        android:background="#eff1ef" >
+    </LinearLayout>
+</RelativeLayout>

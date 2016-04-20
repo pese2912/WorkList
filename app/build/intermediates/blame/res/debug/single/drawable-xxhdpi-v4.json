@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fab_add.png",
+        "source": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-xxhdpi-v4\\fab_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fab_add.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-xxhdpi-v4\\fab_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fab_add.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-xxhdpi-v4\\fab_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_star.png",
+        "source": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_star.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_star.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fab_add.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-mdpi-v4\\fab_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fab_add.png",
+        "source": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-mdpi-v4\\fab_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fab_add.png",
+        "source": "C:\\Users\\Tacademy\\Desktop\\WorkList\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.3\\res\\drawable-mdpi-v4\\fab_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Tacademy\\Documents\\WorkList\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

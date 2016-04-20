@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+>
+
+    <TextView
+        android:id="@+id/memotxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp" 
+        android:layout_alignParentTop="true"
+        android:textColor="#222222"  
+        android:layout_above="@+id/ll_bottom"
+        android:text="내용" />
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+      	android:weightSum="3"              
+        >
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_weight="1"
+            android:text="뒤로" />
+    </LinearLayout>
+    
+</RelativeLayout>
